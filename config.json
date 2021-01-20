@@ -4,7 +4,6 @@
     "description":"Demonstration project",
     "modelPath":"rosetta-source/src/main",
     "permissions":[
-        ""
     ],
     "lowestVersion":"0.0.1",
     "parentReadOnly":false,
@@ -15,7 +14,7 @@
     },
     "modelArtifacts":[
         {
-            "groupId":"com.regnosys.demo",
+            "groupId":"com.regnosys.model.demo",
             "artifactId":"rosetta-source",
             "version":"0.0.1"
         }
