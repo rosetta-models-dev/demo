@@ -5,12 +5,12 @@
     "modelPath":"rosetta-source/src/main",
     "permissions":[
     ],
-    "lowestVersion":"0.0.1",
+    "lowestVersion":"0.0.5",
     "parentReadOnly":false,
     "dependencyArtifact":{
         "groupId":"com.regnosys",
         "artifactId":"core-cdm-dependencies",
-        "version":"2.90.3"
+        "version":"2.91.2"
     },
     "modelArtifacts":[
         {
