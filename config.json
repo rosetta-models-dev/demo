@@ -15,8 +15,7 @@
     "modelArtifacts":[
         {
             "groupId":"com.regnosys.model.demo",
-            "artifactId":"rosetta-source",
-            "version":"0.0.1"
+            "artifactId":"rosetta-source"
         }
     ]
 }
