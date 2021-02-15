@@ -1,7 +1,7 @@
 {
     "id":"DEMO",
     "name":"DEMO",
-    "description":"Demonstration project",
+    "description":"Demonstration Model",
     "modelPath":"rosetta-source/src/main",
     "permissions":[
     ],
