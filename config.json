@@ -1,21 +1,20 @@
 {
-    "id":"DEMO",
-    "name":"DEMO",
-    "description":"Demonstration Model",
-    "modelPath":"rosetta-source/src/main",
-    "permissions":[
-    ],
-    "lowestVersion":"0.1.0",
-    "parentReadOnly":false,
-    "dependencyArtifact":{
-        "groupId":"com.regnosys",
-        "artifactId":"core-cdm-dependencies",
-        "version":"2.94.0"
-    },
-    "modelArtifacts":[
-        {
-            "groupId":"com.regnosys.model.demo",
-            "artifactId":"rosetta-source"
-        }
-    ]
+  "id": "DEMO",
+  "name": "DEMO",
+  "description": "Demonstration Model",
+  "modelPath": "rosetta-source/src/main",
+  "permissions": [],
+  "lowestVersion": "0.1.0",
+  "parentReadOnly": false,
+  "dependencyArtifact": {
+    "groupId": "com.regnosys",
+    "artifactId": "core-cdm-dependencies",
+    "version": "2.95.1"
+  },
+  "modelArtifacts": [
+    {
+      "groupId": "com.regnosys.model.demo",
+      "artifactId": "rosetta-source"
+    }
+  ]
 }
