@@ -5,7 +5,6 @@
   "modelPath": "rosetta-source/src/main",
   "permissions": [],
   "lowestVersion": "0.1.0",
-  "parentReadOnly": false,
   "dependencyArtifact": {
     "groupId": "com.regnosys",
     "artifactId": "core-cdm-dependencies",
