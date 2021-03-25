@@ -3,19 +3,9 @@
   "name": "DEMO",
   "description": "Demonstration Model",
   "modelPath": "rosetta-source/src/main",
-  "documentPath": "rosetta-source/src/main/resources/documents",
   "permissions": [],
   "lowestVersion": "0.1.2",
   "parentReadOnly": false,
-  "documents": [
-    {
-      "documentId": "DEMO-1",
-      "modelId": "DEMO",
-      "displayName": "Terms of Service",
-      "version": "0.2.0",
-      "filename": "terms-of-service.md"
-    }
-  ],
   "dependencyArtifact": {
     "groupId": "com.regnosys",
     "artifactId": "core-cdm-dependencies",
