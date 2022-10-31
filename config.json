@@ -3,13 +3,13 @@
   "description": "Demonstration Model",
   "modelPath": "rosetta-source/src/main",
   "permissions": [],
-  "lowestVersion": "0.20.0",
-  "upmostVersion": "0.24.999",
+  "lowestVersion": "0.25.0",
+  "upmostVersion": "0.25.999",
   "parentReadOnly": false,
   "dependencyArtifact": {
     "groupId": "com.regnosys",
     "artifactId": "core-cdm-dependencies",
-    "version": "2.182.2"
+    "version": "2.187.0"
   },
   "modelArtifacts": [
     {
