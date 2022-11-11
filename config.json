@@ -4,7 +4,13 @@
   "modelPath": "rosetta-source/src/main",
   "permissions": [],
   "lowestVersion": "0.25.0",
-  "upmostVersion": "0.25.999",
+  "upmostVersion": "0.26.999",
+  "fixedVersions": [
+    {
+      "id": "v1",
+      "version": "0.25.0"
+    }
+  ],
   "parentReadOnly": false,
   "dependencyArtifact": {
     "groupId": "com.regnosys",
