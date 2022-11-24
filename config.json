@@ -3,14 +3,8 @@
   "description": "Demonstration Model",
   "modelPath": "rosetta-source/src/main",
   "permissions": [],
-  "lowestVersion": "0.25.0",
-  "upmostVersion": "0.26.999",
-  "fixedVersions": [
-    {
-      "id": "v1",
-      "version": "0.25.0"
-    }
-  ],
+  "lowestVersion": "0.27.0",
+  "upmostVersion": "0.27.999",
   "parentReadOnly": false,
   "dependencyArtifact": {
     "groupId": "com.regnosys",
